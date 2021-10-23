@@ -8,5 +8,5 @@
 
 **📊 Profile stats**
 
-| <a href="https://github.com/irlanvl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=irlanvl&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/irlanvl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlanvl&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/irlanvl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=irlanvl&prefers=dark&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/irlanvl/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irlanvl&layout=compact&theme=buefy&hide_border=true&prefers=dark" /></a> |
 | ------------- | ------------- |
